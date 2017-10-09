@@ -4,7 +4,6 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
 using System.Windows.Forms;
 
 namespace CSVCompare
@@ -13,7 +12,6 @@ namespace CSVCompare
     {
         private Dictionary<string, int> master = new Dictionary<string, int>();
         private Dictionary<string, int> slave = new Dictionary<string, int>();
-        //private List<Cl> c = new List<Cl>();
 
         private const string verCol = "APP_VERSION";
         private const string evNameCol = "EVENT_NAME";
