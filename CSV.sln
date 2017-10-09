@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVCompare", "WindowsFormsApp1\CSVCompare.csproj", "{3F159DD9-BF36-45B5-A307-91FEAF6F0776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVCompare2", "CSVCompare2\CSVCompare2.csproj", "{022333BE-4272-4DD9-A08E-61A423FD9E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F159DD9-BF36-45B5-A307-91FEAF6F0776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F159DD9-BF36-45B5-A307-91FEAF6F0776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F159DD9-BF36-45B5-A307-91FEAF6F0776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F159DD9-BF36-45B5-A307-91FEAF6F0776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022333BE-4272-4DD9-A08E-61A423FD9E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022333BE-4272-4DD9-A08E-61A423FD9E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022333BE-4272-4DD9-A08E-61A423FD9E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022333BE-4272-4DD9-A08E-61A423FD9E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E5CD7B-11D0-48B5-AC34-DE7A5C242340}
+	EndGlobalSection
+EndGlobal
